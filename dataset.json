@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Oklahoma, US",
+  "export_job_id": "70c2e9e3-2c10-45d8-bee3-79b67e4e5780",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 715914,
+  "location_name": "Oklahoma",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-oklahoma-us-sample-715914",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/715914/beamstation_715914_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_pct": 9.8,
+  "sample_records": 29,
+  "sample_sha256": "66bedfdc5df931ecda93d5e99ad3f366fc1b12e17dbee3b89a8dff9d33ec2643",
+  "sample_size_bytes": 117846,
+  "total_records": 296,
+  "updated_at": "2026-04-09T20:45:17.438651+00:00"
+}
